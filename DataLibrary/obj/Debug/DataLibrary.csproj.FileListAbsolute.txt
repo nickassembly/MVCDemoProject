@@ -1,0 +1,8 @@
+D:\Dev\DotNet\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.dll
+D:\Dev\DotNet\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.pdb
+D:\Dev\DotNet\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.dll
+D:\Dev\DotNet\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.xml
+D:\Dev\DotNet\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+D:\Dev\DotNet\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+D:\Dev\DotNet\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.dll
+D:\Dev\DotNet\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.pdb
